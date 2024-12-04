@@ -1,3 +1,12 @@
+This is a hotfix fork for the issue described in upstream issue [#975](https://github.com/AdnanHodzic/displaylink-debian/issues/975)
+
+```shell
+git clone https://github.com/mschmitt/displaylink-debian.git
+cd displaylink-debian
+sudo DISPLAYLINK_VERSION=6.0 ./displaylink-debian.sh
+```
+
+---
 # displaylink-debian
 
 DisplayLink driver installer for Debian and Ubuntu based Linux distributions: Debian, Ubuntu, Elementary OS, Mint, Kali, Deepin and many more! [Full list of all supported platforms](https://github.com/AdnanHodzic/displaylink-debian#supported-platforms-are)
